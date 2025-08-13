@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Silvana 👋
 
-<!--
-**silbarbs/silbarbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15-year-old high school student @ Amazon Valley Academy (Brazil).  
+Passionate about technology, science, and continuous learning.
 
-Here are some ideas to get you started:
+- 🌱 Learning: Python, algorithms, and core CS concepts  
+- 🔭 Interests: Data Science, AI, and Astronomy  
+- 🧪 Goal: build projects that apply code to research & problem-solving  
+- 🤝 Open to: collaboration, feedback, and new ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · Jupyter · Git/GitHub · VS Code
+
+## Get in touch
+- 📧 Email: <silvanarochabarbas8088@gmail.com>
